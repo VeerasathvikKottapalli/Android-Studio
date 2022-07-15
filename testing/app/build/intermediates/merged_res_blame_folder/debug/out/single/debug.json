@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i12.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blue_back.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\blue_back.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_lv_all_pres.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\lv_all_pres.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i6.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i6.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medapp.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\medapp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_imag1.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\imag1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_medapp.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxhdpi\\medapp.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher1_foreground.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_view.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i3.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img6.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\img6.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add__prescription.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_add__prescription.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i4.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_medapp_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-mdpi\\medapp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all__prescriptions.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_all__prescriptions.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_medapp_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxhdpi\\medapp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medapp_foreground.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\medapp_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img3.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\img3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher1_foreground.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_common_style.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\button_common_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_registration.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\registration.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img10.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\img10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_medapp.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-hdpi\\medapp.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\font_dancing_m.ttf.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\font\\dancing_m.ttf"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i19.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\font_product_sans_regular.ttf.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\font\\product_sans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i10.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image7.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\image7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_slots.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_all_slots.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my__prescriptions.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_my__prescriptions.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i1.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_comments.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_all_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medapp_logo.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\medapp_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i18.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i13.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\font_product_sans.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\font\\product_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_doc.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\doc.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher1_round.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher1_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img4.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\img4.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_medapp_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxxhdpi\\medapp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display__patients.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_display__patients.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i9.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i20.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i20.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_forgot.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_user_forgot.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher1.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher1.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_rounded.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\btn_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_accept_data.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_accept_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img9.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\img9.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img2.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\img2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_medapp_round.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-anydpi-v26\\medapp_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher1_foreground.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\color_colorp.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\color\\colorp.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_medapp_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xhdpi\\medapp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\xml_login.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\xml\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doc_schedule.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_doc_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img1.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\img1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_user.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher1_foreground.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\font_product_sans_medium.ttf.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\font\\product_sans_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_lv_slot_item.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\lv_slot_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img7.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\img7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_medapp.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-mdpi\\medapp.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_doctor.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_medapp.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxxhdpi\\medapp.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher1_foreground.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\ic_launcher1_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_doc1.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\doc1.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i5.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher1_foreground.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.ttf.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\font\\roboto.ttf"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_style_login.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\button_style_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img11.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\img11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i21.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i21.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_medapp.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xhdpi\\medapp.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img8.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\img8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_medapp.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-anydpi-v26\\medapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_symptoms_background.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\symptoms_background.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient_details.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_patient_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_medapp_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-hdpi\\medapp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i2.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img5.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable\\img5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_imag2.jpg.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\imag2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher1_round.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_i8.png.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\i8.png"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_heart_with_electrocardiogram.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\ic_heart_with_electrocardiogram.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_add_circle_black.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\drawable-v24\\ic_add_circle_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient__dashboard.xml.flat",
+        "source": "C:\\Users\\veera\\AndroidStudioProjects\\testing\\app\\src\\main\\res\\layout\\activity_patient__dashboard.xml"
+    }
+]
